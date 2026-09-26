@@ -13,6 +13,7 @@ The included `news.json` is a snapshot of the latest prepared briefing. GitHub P
 
 ## Social sharing thumbnail
 
-The site includes `og-image.png` and Open Graph/Twitter card tags. Before sharing, replace `YOUR-GITHUB-USERNAME` and `YOUR-REPOSITORY` in `index.html` and `story.html` with the account and repository names from the published GitHub Pages URL. Social platforms need an absolute image URL to fetch the preview reliably. After deployment, share the live homepage URL.
+The site includes `og-image.png` and Open Graph/Twitter card tags. The metadata is configured for `https://deepakmainframe.github.io/belgium-brief/`. Social platforms need an absolute image URL to fetch the preview reliably. After updating the repository with these files, share the live homepage URL.
 
 The local Python environments, translation models, setup scripts, server scripts, and project notes are intentionally not included.
+
