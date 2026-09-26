@@ -62,4 +62,4 @@ footer{font-size:12px}
 .footer-credit a{color:var(--blue);font-weight:600;text-decoration:none}
 .footer-credit a:hover{text-decoration:underline;text-underline-offset:3px}
 .footer-credit a:focus-visible{outline:2px solid var(--blue);outline-offset:3px;border-radius:2px}
-@media(max-width:650px){.genre-filters{gap:7px;margin-right:-2px}.genre-filter{padding:8px 11px;font-size:13px}}
+@media(max-width:650px){.genre-filters{flex-wrap:wrap;overflow:visible;gap:7px;margin-right:0}.genre-filter{padding:8px 11px;font-size:13px}}
